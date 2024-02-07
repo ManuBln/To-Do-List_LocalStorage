@@ -1,0 +1,12 @@
+{
+    "name": "To-Do-List",
+    "short_name": "TDL",
+    "description": "Una lista que guarda la informacion en el dispositivo local",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3498db",
+
+    "offline_access": true
+  }
+  
